@@ -21,4 +21,4 @@ run
 after run
 `ng serve` command
 
-sources angular 11 - https://angular.io and many other sources
+- sources angular 11 - https://angular.io and many other sources
